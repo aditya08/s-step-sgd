@@ -13,18 +13,17 @@ This work is described in:
 ### Authors
 - Aditya Devarakonda
 - James Demmel
-- Olga Holtz
 
-### Citation
-If you use this code in your research, please cite:
-
+### Bibtex
 ```bibtex
-@INPROCEEDINGS{9406751,
-  author={Devarakonda, Aditya and Demmel, James and Holtz, Olga},
-  booktitle={2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)}, 
-  title={Avoiding Communication in Stochastic Gradient Descent}, 
-  year={2021},
-  pages={385-395},
-  doi={10.1109/IPDPS49936.2021.00047}
-}
+@INPROCEEDINGS{DD20-avoiding-comm-LR,
+  author={Devarakonda, Aditya and Demmel, James},
+  booktitle={2020 IEEE 27th International Conference on High Performance Computing, Data, and Analytics (HiPC)}, 
+  title={Avoiding Communication in Logistic Regression}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={91-100},
+  keywords={Upper bound;High performance computing;Conferences;Optimization methods;Machine learning;Bandwidth;Tuning;Communication Avoidance;Logistic Regression;Stochastic Gradient Descent;Binary Classification},
+  doi={10.1109/HiPC50609.2020.00023}}
 ```
